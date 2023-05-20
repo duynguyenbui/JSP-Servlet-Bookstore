@@ -6,8 +6,8 @@ Hướng dẫn này sẽ giúp bạn deploy dự án JSP/Servlet sử dụng ser
 
 # Yêu cầu
 
-IntelliJ IDEA (phiên bản mới nhất)
-Apache Tomcat 9.0.74 (hoặc phiên bản tương thích)
-Maven (phiên bản mới nhất)
-JDK (Java Development Kit) 8 trở lên
-MySQL hoặc một hệ quản trị cơ sở dữ liệu khác
+* IntelliJ IDEA (phiên bản mới nhất)
+* Apache Tomcat 9.0.74 (hoặc phiên bản tương thích)
+* Maven (phiên bản mới nhất)
+* JDK (Java Development Kit) 8 trở lên
+* MySQL hoặc một hệ quản trị cơ sở dữ liệu khác
